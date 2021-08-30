@@ -1,6 +1,6 @@
 """This program shows the computations of two integers and gives the printed strings of the computations."""
 
-__author__ = 730481030
+__author__ = "730481030"
 
 left_hand_side: int = int(input("Left-hand side: "))
 right_hand_side: int = int(input("Right-hand side: "))
