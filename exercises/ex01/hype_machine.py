@@ -1,6 +1,6 @@
 """This program asks for input of the user's name and then proceeds to compliment them."""
 
-__author__ = 730481030
+__author__ = "730481030"
 
 name: str = input("What is your name? ")
 print("Cool. You are doing great " + name + ".")
