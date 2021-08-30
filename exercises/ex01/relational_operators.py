@@ -1,6 +1,6 @@
 """This program uses relational operators and gives the boolian value of the relations between the integers entered."""
 
-__author__ = 730481030
+__author__ = "730481030"
 
 left_hand_side: int = int(input("Left-hand side: "))
 right_hand_side: int = int(input("Right-hand side: "))
