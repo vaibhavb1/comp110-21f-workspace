@@ -15,4 +15,3 @@ else:
     else: 
         print("You guessed too low!")
 print("Game over.")
-print("Try again.")
